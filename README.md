@@ -2,9 +2,9 @@
 
 i study **artificial intelligence @ penn state harrisburg**.
 
-most of what i build sits somewhere between **healthcare and intelligent systems** — from medical imaging and multimodal tools to a question i keep coming back to: *how do we know an AI system actually deserves our trust?*
+i build with **medical data, multimodal models, and full-stack AI systems**. the part that keeps me interested is what happens after the prototype works: *where does it fail, and can we trust it when it matters?*
 
-i like building things that work, understanding why they work, and figuring out where they break.
+that question is shaping a lot of what i’m working on now in **healthcare AI, evaluation, and reliability**.
 
 ---
 
