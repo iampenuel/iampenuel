@@ -8,7 +8,7 @@ i like building things that work, understanding why they work, and figuring out 
 
 ---
 
-## what i'm up to :)
+## what i'm up to  :)
 
 - building **healthcare AI** projects from model to product
 - researching **AI evaluation & reliability**, starting with radiology
