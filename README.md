@@ -18,16 +18,6 @@ i like building things that work, understanding why they work, and figuring out 
 
 ---
 
-## somewhere between
-
-**machine learning**  
-**healthcare**  
-**AI systems**  
-**evaluation & reliability**  
-**human-centered design**
-
----
-
 ## find me
 
 [portfolio](https://iampenuel.vercel.app/) · [linkedin](https://www.linkedin.com/in/penuel-stanley-zebulon)
