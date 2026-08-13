@@ -8,7 +8,7 @@ i like building things that work, understanding why they work, and figuring out 
 
 ---
 
-## what i'm up to
+## what i'm up to :)
 
 - building **healthcare AI** projects from model to product
 - researching **AI evaluation & reliability**, starting with radiology
@@ -16,12 +16,3 @@ i like building things that work, understanding why they work, and figuring out 
 - getting much better at **Python, DSA, and the engineering underneath the AI**
 - occasionally disappearing into a repo because one idea turned into five
 
----
-
-## find me
-
-[portfolio](https://iampenuel.vercel.app/) · [linkedin](https://www.linkedin.com/in/penuel-stanley-zebulon)
-
----
-
-*make it useful. understand it deeply. make it hold up.*
